@@ -10,5 +10,10 @@ categories:
 
 # 辐辉纯剑技无眼
 
-<iframe height=1024 width=768 src="blog/public/views/other/guide/asset/hollow_knight_2020-07-14_13-29-54-298.mp4" frameborder=0 allowfullscreen></iframe>
+<iframe 
+    src="asset/hollow_knight_2020-07-14_13-29-54-298.mp4" 
+    scrolling="no" 
+    style="border:0;width:100%;height:auto;min-height:790px;"
+    allowfullscreen="true"> 
+</iframe>
 <iframe height=498 width=510 src="blog/public/views/other/guide/asset/hollow_knight_2020-07-14_13-29-54-298.mp4"></iframe>
